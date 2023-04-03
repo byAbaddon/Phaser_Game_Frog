@@ -1,6 +1,5 @@
 # Phaser_Game_Frog
 Create game with Phaser 3 , Webpack, Babel
-# TAURI Demo_Game_CrazyTown
 
 ### A test project of a arcade DEMO game 'Frog', using:
 + Phaser 3
@@ -41,6 +40,8 @@ soon
 
 ### Prerequisites
 - [Playground AI](https://playgroundai.com) allows more and easier control of image generation AI. Use DALLE-2, Stable Diffusion 1.5 & 2.0
+
+#### year 2023
 
 ### Author
 By Abaddon
