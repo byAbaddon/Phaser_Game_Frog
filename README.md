@@ -41,7 +41,8 @@ soon
 ### Prerequisites
 - [Playground AI](https://playgroundai.com) allows more and easier control of image generation AI. Use DALLE-2, Stable Diffusion 1.5 & 2.0
 
-#### year 2023
+#### Year:
+2023
 
 ### Author
 By Abaddon
