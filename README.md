@@ -19,11 +19,10 @@ TODO edit
 - language of dialogues - Bulgarian
 
 ## Playing the game
-TODO edit
-You control the main character TopCat. You can make it move by clicking on the different objects with the left mouse button.
-Information about the character when the mouse is clicked on it.
-After each conversation, different cards are opened for you to visit new places.
-The adventure requires you to find a craftsman and a fuel cell for the damaged spaceship.
+You control the main character Frog.
+Your goal is to cross the carriageway and the sea using the logs.
+You have to watch out for cars and enemies that will prevent you from reaching the goal.
+You will get points depending on time and bounces.
 
 ## Short video intro:
 soon
