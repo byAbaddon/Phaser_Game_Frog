@@ -5,7 +5,7 @@ Create game with Phaser 3 , Webpack, Babel
 + Phaser 3
 + JS
 + HTML / CSS
-+ All images are generated with Playground with AI
++ Most images are generated with Playground with AI
 
 # DEMO Game - Frog
 - Fun arcade game
