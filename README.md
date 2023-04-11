@@ -21,7 +21,8 @@ You will get points depending on time and bounces.
 soon
 
 ## Screenshots:
-soon
+![dev](https://user-images.githubusercontent.com/51271834/231263124-c46ab420-d627-4c31-9684-5650294ff2f8.png)
+
 
 ### Download
 #### For Linux AppImage that run anywhere SOON...
