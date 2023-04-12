@@ -13,7 +13,7 @@ Create game with Phaser 3 , Webpack, Babel
 
 ## Playing the game
 You control the main character Frog.
-Your goal is to cross the carriageway and the sea using the logs.
+Your goal is to cross the carriageway with cars and the sea using the logs.
 You have to watch out for cars and enemies that will prevent you from reaching the goal.
 You will get points depending on time and bounces.
 
