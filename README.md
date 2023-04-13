@@ -33,7 +33,7 @@ soon
 
 ### Prerequisites
 - [Playground AI](https://playgroundai.com) allows more and easier control of image generation AI. Use DALLE-2, Stable Diffusion 1.5 & 2.0
-
+- [Phaser 3](https://phaser.io)
 #### Year:
 2023
 
