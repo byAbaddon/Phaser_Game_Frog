@@ -1,11 +1,12 @@
 # Phaser_Game_Frog
 Create game with Phaser 3 , Webpack, Babel
 
-### A test project of a arcade DEMO game 'Frog', using:
+### A project of a arcade DEMO game 'Frog', using:
 + Phaser 3
 + JS
 + Simple - HTML / CSS
 + Most images are generated with Playground with AI
++ +
 
 # DEMO Game - Frog
 - Fun arcade game
