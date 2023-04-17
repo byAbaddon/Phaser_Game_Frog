@@ -1,5 +1,5 @@
 # Phaser_Game_Frog
-Create game with Phaser 3 , Webpack, Babel
+Create game with Phaser @3.60.0
 
 ### A project of a arcade DEMO game 'Frog', using:
 + Phaser 3
