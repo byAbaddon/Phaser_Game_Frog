@@ -1,5 +1,5 @@
 # Phaser_Game_Frog
-Create game with Phaser @3.60.0
+Create game with Phaser @3.60.0 "Miku"
 
 ### A project of a arcade DEMO game 'Frog', using:
 + Phaser 3
