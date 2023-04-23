@@ -9,7 +9,7 @@ Create game with Phaser @3.60.0 "Miku"
 + +
 
 # DEMO Game - Frog
-- Fun arcade game
+- Fun arcade game from olds classics
 - Great music and effects
 
 ## Playing the game
