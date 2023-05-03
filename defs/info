@@ -1,0 +1,32 @@
+Files:
+
+1) phaser.js            // just framework
+ 
+2) phaser.d.ts         // autocomplite
+
+3) phaser.esm.js    // Сега използваме това като част от нашата компилация. В папката ще намерите distнов phaser.esm.jsфайл, който също е свързан от нашата package.jsonсобственост на модула. С помощта на тази компилация можете да получите достъп до който и да е от модулите на Phaser директно чрез именувани импорти, което означава, че можете да кодирате по следния начин:
+
+import { AUTO, Scene, Game } from './phaser.esm.js';
+
+class Test extends Scene
+{
+    constructor ()
+    {
+        super();
+    }
+
+    create ()
+    {
+        this.add.text(10, 10, 'Welcome to Phaser ESM');
+    }
+}
+
+const config = {
+    type: AUTO,
+    width: 800,
+    height: 600,
+    parent: 'phaser-example',
+    scene: [ Test ]
+};
+
+const game = new Game(config);
