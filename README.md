@@ -19,7 +19,7 @@ You have to watch out for cars and enemies that will prevent you from reaching t
 You will get points depending on time and bounces.
 
 ## Short video intro:
-soon
+https://www.youtube.com/watch?v=Z_8-VJi99xU
 
 ## Screenshots:
 ![intro](https://user-images.githubusercontent.com/51271834/234928886-e181b79c-cc28-41b2-a8ce-50749416f89b.png)
