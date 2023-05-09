@@ -23,6 +23,10 @@ https://www.youtube.com/watch?v=Z_8-VJi99xU
 
 ## Screenshots:
 ![intro](https://user-images.githubusercontent.com/51271834/234928886-e181b79c-cc28-41b2-a8ce-50749416f89b.png)
+![menu](https://github.com/byAbaddon/Phaser_Game_Frog/assets/51271834/ff2423f1-ef4e-4a4e-a5c1-16887135a1f9)
+![credits](https://github.com/byAbaddon/Phaser_Game_Frog/assets/51271834/84f530fb-c04c-4ad5-905e-b82670ec5ebf)
+![controls](https://github.com/byAbaddon/Phaser_Game_Frog/assets/51271834/43f04308-049d-48e6-bad2-4b1cc6786ac8)
+![1](https://github.com/byAbaddon/Phaser_Game_Frog/assets/51271834/d8c650a5-9160-4ac4-ace3-9ec2f776958c)
 
 ![dev](https://user-images.githubusercontent.com/51271834/231263124-c46ab420-d627-4c31-9684-5650294ff2f8.png)
 
