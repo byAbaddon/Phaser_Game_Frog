@@ -8,7 +8,7 @@ Create game with Phaser @3.60.0 "Miku"
 + Most images are generated with Playground with AI
 + +
 
-# DEMO Game - Classic Frog
+# Game - Classic Frog
 - Fun arcade game from olds classics
 - Great music and effects
 
