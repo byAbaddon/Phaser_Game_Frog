@@ -1,7 +1,7 @@
 # Phaser_Game_Frog
 Create game with Phaser @3.60.0 "Miku"
 
-### A project of a arcade DEMO game 'Frog', using:
+### A project of a arcade game 'Frog', using:
 + Phaser 3
 + JS
 + Simple - HTML / CSS
