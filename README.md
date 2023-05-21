@@ -35,7 +35,7 @@ https://www.youtube.com/watch?v=Z_8-VJi99xU
 #### For Linux AppImage that run anywhere SOON...
 
 ```diff
-- This flag is currently only supported on Ubuntu build systems.
+- This.
 ```
 
 ### Prerequisites
